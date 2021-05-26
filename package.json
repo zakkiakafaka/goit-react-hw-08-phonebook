@@ -26,7 +26,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "npx netlify-cli -p"
+    "deploy": "npx netlify -p"
   },
   "eslintConfig": {
     "extends": [
